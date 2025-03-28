@@ -3,7 +3,7 @@ const mysql = require("mysql2");
 const db = mysql.createConnection({
     host: "127.0.0.1",
     user: "root",
-    password: "5558",  // Change this to your MySQL password
+    password: "ur password",  // Change this to your MySQL password
     database: "chatbot_db"
 });
 
